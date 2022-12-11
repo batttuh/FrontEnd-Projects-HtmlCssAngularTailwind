@@ -1,0 +1,23 @@
+.main p{
+    font-size: 22px;
+
+}
+.main h1{
+    font-size: 50px;
+    padding-top: 20%;
+}
+.main button{
+    padding: 15px;
+    display: inline-block;
+    border-color: #926239;
+    
+}
+.main button:active{
+    background-color: #000;
+}
+.main button:hover{
+    background-color: black;
+}
+.main{
+    height: 950px;
+}

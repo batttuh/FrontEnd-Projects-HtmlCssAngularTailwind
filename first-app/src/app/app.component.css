@@ -1,0 +1,10 @@
+.main{
+        height:100%;
+        background-size:cover ;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-image: url("https://picsum.photos/1800/1800");
+        color:#926239;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
