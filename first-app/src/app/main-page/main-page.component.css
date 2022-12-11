@@ -16,8 +16,26 @@
     background-color: #000;
 }
 .main button:hover{
-    background-color: black;
+    background-color: #926239;
+    color: #fff;
 }
 .main{
     height: 950px;
+    background-size:cover ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("https://picsum.photos/1800/1800");
+    color:#926239;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#second-p{
+    background-color: #926239;
+    color: #fff;
+    padding: 15px;
+    font-size: 15px;
+}
+.colorOfMine{
+    background-color: #926239;
+    color: #fff;
 }
