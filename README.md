@@ -1,4 +1,4 @@
 # FrontEnd-Projects-HtmlCssAngularTailwind
 <h1> First Project</h1>
-![1](https://user-images.githubusercontent.com/76205004/206911845-f671894a-f246-41af-9c02-a3c20364e635.png)
-![2](https://user-images.githubusercontent.com/76205004/206911848-71e87c95-39ce-4191-978a-864ed10ff10c.png)
+![1](https://user-images.githubusercontent.com/76205004/206911889-286fc98b-fcac-4860-afa6-3a8ff04c6d11.png)
+![2](https://user-images.githubusercontent.com/76205004/206911892-0cffe43c-a999-488c-b3ce-bb0b0622d7e5.png)
